@@ -1,2 +1,2 @@
 # ohjelmistokehitys
-Ohjelmistokehityksen projekti
+Ohjelmistokehitys kurssin projekti
